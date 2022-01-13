@@ -1,0 +1,64 @@
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "http://www.w3.org/TR/REC-smil/SMIL10.dtd">
+<smil>
+<head>
+<meta name="dc:format" content="Daisy 2.02"/>
+<meta name="title" content="Imagine"/>
+<meta name="dc:identifier" content="Imagine MP3" />
+<meta name="ncc:timeInThisSmil" content="461.000s" />
+<layout>
+<region id="txt-view"/>
+</layout>
+</head>
+<body>
+<seq dur="461.000s">
+<par endsync="last">
+<text src="ncc.html#chapter18" id="chapter18"/>
+<seq>
+<audio src="18.mp3" clip-begin="npt=0.000s" clip-end="npt=0.000s" id="phrs_1"/>
+</seq>
+</par>
+<par endsync="last">
+<text src="ncc.html#page310" id="page310"/>
+<seq>
+<audio src="18.mp3" clip-begin="npt=0.000s" clip-end="npt=60.000s" id="phrs_2"/>
+</seq>
+</par>
+<par endsync="last">
+<text src="ncc.html#page311" id="page311"/>
+<seq>
+<audio src="18.mp3" clip-begin="npt=60.000s" clip-end="npt=120.000s" id="phrs_3"/>
+</seq>
+</par>
+<par endsync="last">
+<text src="ncc.html#page312" id="page312"/>
+<seq>
+<audio src="18.mp3" clip-begin="npt=120.000s" clip-end="npt=180.000s" id="phrs_4"/>
+</seq>
+</par>
+<par endsync="last">
+<text src="ncc.html#page313" id="page313"/>
+<seq>
+<audio src="18.mp3" clip-begin="npt=180.000s" clip-end="npt=240.000s" id="phrs_5"/>
+</seq>
+</par>
+<par endsync="last">
+<text src="ncc.html#page314" id="page314"/>
+<seq>
+<audio src="18.mp3" clip-begin="npt=240.000s" clip-end="npt=300.000s" id="phrs_6"/>
+</seq>
+</par>
+<par endsync="last">
+<text src="ncc.html#page315" id="page315"/>
+<seq>
+<audio src="18.mp3" clip-begin="npt=300.000s" clip-end="npt=360.000s" id="phrs_7"/>
+</seq>
+</par>
+<par endsync="last">
+<text src="ncc.html#page316" id="page316"/>
+<seq>
+<audio src="18.mp3" clip-begin="npt=360.000s" clip-end="npt=461.000s" id="phrs_8"/>
+</seq>
+</par>
+</seq>
+</body>
+</smil>

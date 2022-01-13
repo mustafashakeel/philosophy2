@@ -1,0 +1,166 @@
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "http://www.w3.org/TR/REC-smil/SMIL10.dtd">
+<smil>
+<head>
+<meta name="dc:format" content="Daisy 2.02"/>
+<meta name="title" content="Imagine"/>
+<meta name="dc:identifier" content="Imagine MP3" />
+<meta name="ncc:timeInThisSmil" content="1474.000s" />
+<layout>
+<region id="txt-view"/>
+</layout>
+</head>
+<body>
+<seq dur="1474.000s">
+<par endsync="last">
+<text src="ncc.html#chapter21" id="chapter21"/>
+<seq>
+<audio src="21.mp3" clip-begin="npt=0.000s" clip-end="npt=0.000s" id="phrs_1"/>
+</seq>
+</par>
+<par endsync="last">
+<text src="ncc.html#page360" id="page360"/>
+<seq>
+<audio src="21.mp3" clip-begin="npt=0.000s" clip-end="npt=60.000s" id="phrs_2"/>
+</seq>
+</par>
+<par endsync="last">
+<text src="ncc.html#page361" id="page361"/>
+<seq>
+<audio src="21.mp3" clip-begin="npt=60.000s" clip-end="npt=120.000s" id="phrs_3"/>
+</seq>
+</par>
+<par endsync="last">
+<text src="ncc.html#page362" id="page362"/>
+<seq>
+<audio src="21.mp3" clip-begin="npt=120.000s" clip-end="npt=180.000s" id="phrs_4"/>
+</seq>
+</par>
+<par endsync="last">
+<text src="ncc.html#page363" id="page363"/>
+<seq>
+<audio src="21.mp3" clip-begin="npt=180.000s" clip-end="npt=240.000s" id="phrs_5"/>
+</seq>
+</par>
+<par endsync="last">
+<text src="ncc.html#page364" id="page364"/>
+<seq>
+<audio src="21.mp3" clip-begin="npt=240.000s" clip-end="npt=300.000s" id="phrs_6"/>
+</seq>
+</par>
+<par endsync="last">
+<text src="ncc.html#page365" id="page365"/>
+<seq>
+<audio src="21.mp3" clip-begin="npt=300.000s" clip-end="npt=360.000s" id="phrs_7"/>
+</seq>
+</par>
+<par endsync="last">
+<text src="ncc.html#page366" id="page366"/>
+<seq>
+<audio src="21.mp3" clip-begin="npt=360.000s" clip-end="npt=420.000s" id="phrs_8"/>
+</seq>
+</par>
+<par endsync="last">
+<text src="ncc.html#page367" id="page367"/>
+<seq>
+<audio src="21.mp3" clip-begin="npt=420.000s" clip-end="npt=480.000s" id="phrs_9"/>
+</seq>
+</par>
+<par endsync="last">
+<text src="ncc.html#page368" id="page368"/>
+<seq>
+<audio src="21.mp3" clip-begin="npt=480.000s" clip-end="npt=540.000s" id="phrs_10"/>
+</seq>
+</par>
+<par endsync="last">
+<text src="ncc.html#page369" id="page369"/>
+<seq>
+<audio src="21.mp3" clip-begin="npt=540.000s" clip-end="npt=600.000s" id="phrs_11"/>
+</seq>
+</par>
+<par endsync="last">
+<text src="ncc.html#page370" id="page370"/>
+<seq>
+<audio src="21.mp3" clip-begin="npt=600.000s" clip-end="npt=660.000s" id="phrs_12"/>
+</seq>
+</par>
+<par endsync="last">
+<text src="ncc.html#page371" id="page371"/>
+<seq>
+<audio src="21.mp3" clip-begin="npt=660.000s" clip-end="npt=720.000s" id="phrs_13"/>
+</seq>
+</par>
+<par endsync="last">
+<text src="ncc.html#page372" id="page372"/>
+<seq>
+<audio src="21.mp3" clip-begin="npt=720.000s" clip-end="npt=780.000s" id="phrs_14"/>
+</seq>
+</par>
+<par endsync="last">
+<text src="ncc.html#page373" id="page373"/>
+<seq>
+<audio src="21.mp3" clip-begin="npt=780.000s" clip-end="npt=840.000s" id="phrs_15"/>
+</seq>
+</par>
+<par endsync="last">
+<text src="ncc.html#page374" id="page374"/>
+<seq>
+<audio src="21.mp3" clip-begin="npt=840.000s" clip-end="npt=900.000s" id="phrs_16"/>
+</seq>
+</par>
+<par endsync="last">
+<text src="ncc.html#page375" id="page375"/>
+<seq>
+<audio src="21.mp3" clip-begin="npt=900.000s" clip-end="npt=960.000s" id="phrs_17"/>
+</seq>
+</par>
+<par endsync="last">
+<text src="ncc.html#page376" id="page376"/>
+<seq>
+<audio src="21.mp3" clip-begin="npt=960.000s" clip-end="npt=1020.000s" id="phrs_18"/>
+</seq>
+</par>
+<par endsync="last">
+<text src="ncc.html#page377" id="page377"/>
+<seq>
+<audio src="21.mp3" clip-begin="npt=1020.000s" clip-end="npt=1080.000s" id="phrs_19"/>
+</seq>
+</par>
+<par endsync="last">
+<text src="ncc.html#page378" id="page378"/>
+<seq>
+<audio src="21.mp3" clip-begin="npt=1080.000s" clip-end="npt=1140.000s" id="phrs_20"/>
+</seq>
+</par>
+<par endsync="last">
+<text src="ncc.html#page379" id="page379"/>
+<seq>
+<audio src="21.mp3" clip-begin="npt=1140.000s" clip-end="npt=1200.000s" id="phrs_21"/>
+</seq>
+</par>
+<par endsync="last">
+<text src="ncc.html#page380" id="page380"/>
+<seq>
+<audio src="21.mp3" clip-begin="npt=1200.000s" clip-end="npt=1260.000s" id="phrs_22"/>
+</seq>
+</par>
+<par endsync="last">
+<text src="ncc.html#page381" id="page381"/>
+<seq>
+<audio src="21.mp3" clip-begin="npt=1260.000s" clip-end="npt=1320.000s" id="phrs_23"/>
+</seq>
+</par>
+<par endsync="last">
+<text src="ncc.html#page382" id="page382"/>
+<seq>
+<audio src="21.mp3" clip-begin="npt=1320.000s" clip-end="npt=1380.000s" id="phrs_24"/>
+</seq>
+</par>
+<par endsync="last">
+<text src="ncc.html#page383" id="page383"/>
+<seq>
+<audio src="21.mp3" clip-begin="npt=1380.000s" clip-end="npt=1474.000s" id="phrs_25"/>
+</seq>
+</par>
+</seq>
+</body>
+</smil>

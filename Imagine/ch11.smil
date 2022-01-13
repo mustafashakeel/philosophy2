@@ -1,0 +1,142 @@
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "http://www.w3.org/TR/REC-smil/SMIL10.dtd">
+<smil>
+<head>
+<meta name="dc:format" content="Daisy 2.02"/>
+<meta name="title" content="Imagine"/>
+<meta name="dc:identifier" content="Imagine MP3" />
+<meta name="ncc:timeInThisSmil" content="1241.000s" />
+<layout>
+<region id="txt-view"/>
+</layout>
+</head>
+<body>
+<seq dur="1241.000s">
+<par endsync="last">
+<text src="ncc.html#chapter11" id="chapter11"/>
+<seq>
+<audio src="11.mp3" clip-begin="npt=0.000s" clip-end="npt=0.000s" id="phrs_1"/>
+</seq>
+</par>
+<par endsync="last">
+<text src="ncc.html#page173" id="page173"/>
+<seq>
+<audio src="11.mp3" clip-begin="npt=0.000s" clip-end="npt=60.000s" id="phrs_2"/>
+</seq>
+</par>
+<par endsync="last">
+<text src="ncc.html#page174" id="page174"/>
+<seq>
+<audio src="11.mp3" clip-begin="npt=60.000s" clip-end="npt=120.000s" id="phrs_3"/>
+</seq>
+</par>
+<par endsync="last">
+<text src="ncc.html#page175" id="page175"/>
+<seq>
+<audio src="11.mp3" clip-begin="npt=120.000s" clip-end="npt=180.000s" id="phrs_4"/>
+</seq>
+</par>
+<par endsync="last">
+<text src="ncc.html#page176" id="page176"/>
+<seq>
+<audio src="11.mp3" clip-begin="npt=180.000s" clip-end="npt=240.000s" id="phrs_5"/>
+</seq>
+</par>
+<par endsync="last">
+<text src="ncc.html#page177" id="page177"/>
+<seq>
+<audio src="11.mp3" clip-begin="npt=240.000s" clip-end="npt=300.000s" id="phrs_6"/>
+</seq>
+</par>
+<par endsync="last">
+<text src="ncc.html#page178" id="page178"/>
+<seq>
+<audio src="11.mp3" clip-begin="npt=300.000s" clip-end="npt=360.000s" id="phrs_7"/>
+</seq>
+</par>
+<par endsync="last">
+<text src="ncc.html#page179" id="page179"/>
+<seq>
+<audio src="11.mp3" clip-begin="npt=360.000s" clip-end="npt=420.000s" id="phrs_8"/>
+</seq>
+</par>
+<par endsync="last">
+<text src="ncc.html#page180" id="page180"/>
+<seq>
+<audio src="11.mp3" clip-begin="npt=420.000s" clip-end="npt=480.000s" id="phrs_9"/>
+</seq>
+</par>
+<par endsync="last">
+<text src="ncc.html#page181" id="page181"/>
+<seq>
+<audio src="11.mp3" clip-begin="npt=480.000s" clip-end="npt=540.000s" id="phrs_10"/>
+</seq>
+</par>
+<par endsync="last">
+<text src="ncc.html#page182" id="page182"/>
+<seq>
+<audio src="11.mp3" clip-begin="npt=540.000s" clip-end="npt=600.000s" id="phrs_11"/>
+</seq>
+</par>
+<par endsync="last">
+<text src="ncc.html#page183" id="page183"/>
+<seq>
+<audio src="11.mp3" clip-begin="npt=600.000s" clip-end="npt=660.000s" id="phrs_12"/>
+</seq>
+</par>
+<par endsync="last">
+<text src="ncc.html#page184" id="page184"/>
+<seq>
+<audio src="11.mp3" clip-begin="npt=660.000s" clip-end="npt=720.000s" id="phrs_13"/>
+</seq>
+</par>
+<par endsync="last">
+<text src="ncc.html#page185" id="page185"/>
+<seq>
+<audio src="11.mp3" clip-begin="npt=720.000s" clip-end="npt=780.000s" id="phrs_14"/>
+</seq>
+</par>
+<par endsync="last">
+<text src="ncc.html#page186" id="page186"/>
+<seq>
+<audio src="11.mp3" clip-begin="npt=780.000s" clip-end="npt=840.000s" id="phrs_15"/>
+</seq>
+</par>
+<par endsync="last">
+<text src="ncc.html#page187" id="page187"/>
+<seq>
+<audio src="11.mp3" clip-begin="npt=840.000s" clip-end="npt=900.000s" id="phrs_16"/>
+</seq>
+</par>
+<par endsync="last">
+<text src="ncc.html#page188" id="page188"/>
+<seq>
+<audio src="11.mp3" clip-begin="npt=900.000s" clip-end="npt=960.000s" id="phrs_17"/>
+</seq>
+</par>
+<par endsync="last">
+<text src="ncc.html#page189" id="page189"/>
+<seq>
+<audio src="11.mp3" clip-begin="npt=960.000s" clip-end="npt=1020.000s" id="phrs_18"/>
+</seq>
+</par>
+<par endsync="last">
+<text src="ncc.html#page190" id="page190"/>
+<seq>
+<audio src="11.mp3" clip-begin="npt=1020.000s" clip-end="npt=1080.000s" id="phrs_19"/>
+</seq>
+</par>
+<par endsync="last">
+<text src="ncc.html#page191" id="page191"/>
+<seq>
+<audio src="11.mp3" clip-begin="npt=1080.000s" clip-end="npt=1140.000s" id="phrs_20"/>
+</seq>
+</par>
+<par endsync="last">
+<text src="ncc.html#page192" id="page192"/>
+<seq>
+<audio src="11.mp3" clip-begin="npt=1140.000s" clip-end="npt=1241.000s" id="phrs_21"/>
+</seq>
+</par>
+</seq>
+</body>
+</smil>

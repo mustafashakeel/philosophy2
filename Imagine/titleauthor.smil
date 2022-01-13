@@ -1,0 +1,22 @@
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "http://www.w3.org/TR/REC-smil/SMIL10.dtd">
+<smil>
+<head>
+<meta name="dc:format" content="Daisy 2.02" />
+<meta name="title" content="Imagine" />
+<meta name="dc:identifier" content="Imagine MP3" />
+<meta name="ncc:timeInThisSmil" content="22.000s" />
+<layout>
+<region id="txt-view" />
+</layout>
+</head>
+<body>
+<seq dur="22.000s">
+<par endsync="last">
+<text src="ncc.html#titleauthor" id="titleauthor" />
+<seq>
+<audio src="01.mp3" clip-begin="npt=0.000s" clip-end="npt=22.000s" id="phrs_1" />
+</seq>
+</par>
+</seq>
+</body>
+</smil>
